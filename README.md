@@ -1,25 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project: HELLO MICROVERSE
 
-> Description the project.
+> This is my first project in microverse.It is a practice of the linters and good codding practices
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Major languages ` HTMl `, ` CSS`
+- Frameworks - none
+- Technologies used - none
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
 
 
 To get a local copy up and running follow these simple example steps.
