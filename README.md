@@ -14,38 +14,37 @@
 
 ## Getting Started
 
-
-
-
-To get a local copy up and running follow these simple example steps.
+This project is a static webpage with no external packages to install
 
 ### Prerequisites
+- Web Browser
+- Code IDE
 
 ### Setup
 
-### Install
+To view the project, open it with a browser or a serve it on a server
 
 ### Usage
 
+the page is static and displays content in the header of `index.html` and styled by `styles.css`
+
 ### Run tests
+Linter tests are done automatically `on pull requests`. (_Check `.github/worklows/linters.yml`_)
+No other tests are done. 
 
 ### Deployment
 
+Open `index.html` using a web browser to deploy the web page
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mfadhili)
+- Twitter: [@twitterhandle](https://twitter.com/Mfadhili3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mfadhili-gitau-b9294122b/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -57,14 +56,8 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
